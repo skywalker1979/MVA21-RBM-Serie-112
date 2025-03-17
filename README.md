@@ -14,3 +14,6 @@ Aggiungo che ho contattato l'azienda chiedendo di acquistare il suddetto adattat
 ![image](https://github.com/user-attachments/assets/21de67ac-6795-43fd-b404-0b3555095cbd)
 
 ![image](https://github.com/user-attachments/assets/881da97b-4c0a-48ef-8870-3e8f34a19fca)
+
+
+"Questo progetto è indipendente e non ha alcuna affiliazione o collaborazione con RBM o altre aziende citate o non citate."
