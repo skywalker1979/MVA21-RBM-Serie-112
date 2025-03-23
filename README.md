@@ -10,6 +10,9 @@ Il file STL è disponibile gratuitamente per la stampa, insieme a istruzioni sem
 
 Aggiungo che ho contattato l'azienda chiedendo di acquistare il suddetto adattatore o la cartuccia termica che è la parte che si è rotta invece di compare l'intero attuatore......ricevendo sempre risposta negativa. Se l'azienda non è stata in grado di creare un prodotto affidabile non mi sembra giusto che ci debbano rimettere i clienti che hanno già comprato varie volte il loro prodotto di scarsa qualità a prezzi assurdi. E quindi ho ricreato l'adattatore, di cui pubblicherò il file STL e il file FREECAD entro pochi giorni.
 
+L'adattatore è stato verificato con un attuatore da 12€ che si può comprare al seguente link:
+https://www.amazon.it/dp/B0BY7WF8WJ?th=1
+L'adattatore in questione non ha il contatto pulito, quindi se questa è una necessità, servirà trovare un attuatore con 4 fili. Al momento non ne ho trovati su amazon, ma esistono.
 
 ![image](https://github.com/user-attachments/assets/21de67ac-6795-43fd-b404-0b3555095cbd)
 
