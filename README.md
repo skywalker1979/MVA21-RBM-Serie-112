@@ -26,3 +26,6 @@ L'attuatore inoltre deve essere di tipo NORMALMENTE APERTO. sono è stato verifi
 Ulteriori informazioni verranno aggiunte nei prossimi giorni.
 
 "Questo progetto è indipendente e non ha alcuna affiliazione o collaborazione con RBM o altre aziende citate o non citate."
+
+Aggiungo che se stampate l'adattatore, lo fate sotto la vostra responsabilità. 
+Io per nessun motivo potrò essere ritenuto responsabile per danni a persone o cose derivanti dall'uso dell'adattatore.
