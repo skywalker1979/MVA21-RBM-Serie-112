@@ -18,5 +18,6 @@ L'adattatore in questione non ha il contatto pulito, quindi se questa è una nec
 
 ![image](https://github.com/user-attachments/assets/881da97b-4c0a-48ef-8870-3e8f34a19fca)
 
+Ulteriori informazioni verranno aggiunte nei prossimi giorni.
 
 "Questo progetto è indipendente e non ha alcuna affiliazione o collaborazione con RBM o altre aziende citate o non citate."
