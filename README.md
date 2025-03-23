@@ -17,7 +17,8 @@ L'adattatore in questione non ha il contatto pulito, quindi se questa è una nec
 ![image](https://github.com/user-attachments/assets/16244c59-9399-46eb-95d4-900be709e740)
 
 
-![image](https://github.com/user-attachments/assets/7cdced8a-3170-4f92-9a38-aa7724e2b75d)
+![image](https://github.com/user-attachments/assets/cd59f9d3-c731-4a96-bef5-b25862953de8)
+
 
 
 
