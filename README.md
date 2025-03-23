@@ -14,9 +14,11 @@ Le misure dell'adattatore sono compatibili per il funzionamento con un attuatore
 https://www.amazon.it/dp/B0BY7WF8WJ?th=1
 L'adattatore in questione non ha il contatto pulito, quindi se questa è una necessità, servirà trovare un attuatore con 4 fili. Al momento non ne ho trovati su amazon, ma esistono.
 
-![image](https://github.com/user-attachments/assets/21de67ac-6795-43fd-b404-0b3555095cbd)
+![image](https://github.com/user-attachments/assets/16244c59-9399-46eb-95d4-900be709e740)
 
-![image](https://github.com/user-attachments/assets/881da97b-4c0a-48ef-8870-3e8f34a19fca)
+
+![image](https://github.com/user-attachments/assets/7369081e-5b3d-4aa1-ae3a-e69243741f13)
+
 
 Ulteriori informazioni verranno aggiunte nei prossimi giorni.
 
