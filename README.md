@@ -12,7 +12,8 @@ Aggiungo che ho contattato l'azienda chiedendo di acquistare il suddetto adattat
 
 Le misure dell'adattatore sono compatibili per il funzionamento con un attuatore da 12€ che si può comprare al seguente link:
 https://www.amazon.it/dp/B0BY7WF8WJ?th=1
-L'adattatore in questione non ha il contatto pulito, quindi se questa è una necessità, servirà trovare un attuatore con 4 fili. Al momento non ne ho trovati su amazon, ma esistono.
+ATTENZIONE: L'adattatore in questione non ha il contatto pulito, quindi se questa è una necessità, servirà trovare un attuatore con 4 fili. Al momento non ne ho trovati su amazon, ma esistono.
+L'attuatore inoltre deve essere di tipo NORMALMENTE APERTO. sono è stato verificato il funzionamento di attuatori di tipo NORMALMENTE CHIUSO.
 
 ![image](https://github.com/user-attachments/assets/16244c59-9399-46eb-95d4-900be709e740)
 
