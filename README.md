@@ -1,4 +1,4 @@
-MVA21-RBM-Serie-112
+MVA21 RBM Serie 112
 
 Dopo innumerevoli guasti dell'elettrovalvola originale MVA21 prodotta da RBM, mi sono rifiutato di continuare ad acquistare ricambi costosi e dalla scarsa affidabilità. Stanco dei frequenti malfunzionamenti e delle continue spese di sostituzione, ho deciso di progettare una soluzione alternativa.
 
