@@ -15,7 +15,7 @@ Aggiungo che ho contattato l'azienda RBM, visto che avevano anche loro in passat
 E quindi ho ricreato l'adattatore che distribuisco gratuitamente sotto licenza "GNU General Public License".  (e quindi bye bye RBM.)
 
 Le misure dell'adattatore sono compatibili per il funzionamento con un attuatore da 12€ che si può comprare al seguente link:
-https://www.amazon.it/dp/B0BY7WF8WJ?th=1
+https://www.amazon.it/dp/B0BY7WF8WJ
 ATTENZIONE: L'attuatore in questione non ha il contatto pulito, quindi se questa è una necessità, servirà trovare un attuatore con 4 fili. Al momento non ne ho trovati su amazon, ma esistono.
 L'attuatore inoltre deve essere di tipo NORMALMENTE APERTO. sono è stato verificato il funzionamento di attuatori di tipo NORMALMENTE CHIUSO.
 
