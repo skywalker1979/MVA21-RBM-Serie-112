@@ -15,10 +15,10 @@ https://www.amazon.it/dp/B0BY7WF8WJ?th=1
 ATTENZIONE: L'attuatore in questione non ha il contatto pulito, quindi se questa è una necessità, servirà trovare un attuatore con 4 fili. Al momento non ne ho trovati su amazon, ma esistono.
 L'attuatore inoltre deve essere di tipo NORMALMENTE APERTO. sono è stato verificato il funzionamento di attuatori di tipo NORMALMENTE CHIUSO.
 
-![image](https://github.com/user-attachments/assets/16244c59-9399-46eb-95d4-900be709e740)
+![adattatore2](https://github.com/user-attachments/assets/e64fc197-f4be-4244-8ba9-988e3f6ed970)
 
+![adattatore1](https://github.com/user-attachments/assets/ee03c7b8-dc8b-4b9f-bd62-d2457aa1c160)
 
-![image](https://github.com/user-attachments/assets/cd59f9d3-c731-4a96-bef5-b25862953de8)
 
 
 
@@ -29,3 +29,6 @@ Ulteriori informazioni verranno aggiunte nei prossimi giorni.
 
 Aggiungo che se stampate l'adattatore, lo fate sotto la vostra responsabilità. 
 Io per nessun motivo potrò essere ritenuto responsabile per danni a persone o cose derivanti dall'uso dell'adattatore.
+
+
+TODO: Aggiungere il supporto per il contatto Ausiliario.
