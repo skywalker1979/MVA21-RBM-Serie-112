@@ -1,5 +1,5 @@
 MVA21 RBM Serie 112
-(visitare il repository per scaricare i files, accesibile qui: https://github.com/skywalker1979/MVA21-RBM-Serie-112)
+(visitare il repository per scaricare i files, accessibile qui: https://github.com/skywalker1979/MVA21-RBM-Serie-112)
 
 
 Dopo innumerevoli guasti dell'elettrovalvola originale MVA21 prodotta da RBM, mi sono rifiutato di continuare ad acquistare ricambi costosi e dalla scarsa affidabilità. Stanco dei frequenti malfunzionamenti e delle continue spese di sostituzione, ho deciso di progettare una soluzione alternativa.
