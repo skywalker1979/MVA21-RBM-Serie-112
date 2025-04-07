@@ -11,7 +11,7 @@ Questo adattatore è stato testato con successo e ha dimostrato di garantire un 
 
 Il file STL è disponibile gratuitamente per la stampa, insieme a istruzioni semplici per il montaggio e suggerimenti sui materiali da utilizzare per ottenere il miglior risultato.
 
-Aggiungo che ho contattato l'azienda RBM, visto che avevano anche loro in passato un adattatore simile, chiedendo di acquistarlo oppure di acquistare la sola cartuccia termica che è la parte che si è rotta invece di compare l'intero attuatore......ricevendo sempre risposta negativa. Se l'azienda non è stata in grado di creare un prodotto affidabile non mi sembra giusto che ci debbano rimettere i clienti che hanno già comprato varie volte il loro prodotto di scarsa qualità a prezzi assurdi. 
+Aggiungo che ho contattato l'azienda RBM, visto che avevano anche loro in passato un adattatore simile, chiedendo di acquistarlo oppure di acquistare la sola cartuccia termica che è la parte che si è rotta invece di comprare l'intero attuatore......ricevendo sempre risposta negativa. Se l'azienda non è stata in grado di creare un prodotto affidabile non mi sembra giusto che ci debbano rimettere i clienti che hanno già comprato varie volte il loro prodotto di scarsa qualità a prezzi assurdi. 
 E quindi ho ricreato l'adattatore che distribuisco gratuitamente sotto licenza "GNU General Public License".  (e quindi bye bye RBM.)
 
 Le misure dell'adattatore sono compatibili per il funzionamento con un attuatore da 12€ che si può comprare al seguente link:
