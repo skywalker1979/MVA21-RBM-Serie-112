@@ -8,7 +8,8 @@ Questo adattatore è stato testato con successo e ha dimostrato di garantire un 
 
 Il file STL è disponibile gratuitamente per la stampa, insieme a istruzioni semplici per il montaggio e suggerimenti sui materiali da utilizzare per ottenere il miglior risultato.
 
-Aggiungo che ho contattato l'azienda chiedendo di acquistare il suddetto adattatore o la cartuccia termica che è la parte che si è rotta invece di compare l'intero attuatore......ricevendo sempre risposta negativa. Se l'azienda non è stata in grado di creare un prodotto affidabile non mi sembra giusto che ci debbano rimettere i clienti che hanno già comprato varie volte il loro prodotto di scarsa qualità a prezzi assurdi. E quindi ho ricreato l'adattatore, di cui pubblicherò il file STL e il file FREECAD entro pochi giorni.
+Aggiungo che ho contattato l'azienda RBM, visto che avevano anche loro in passato un adattatore simile, chiedendo di acquistarlo oppure di acquistare la sola cartuccia termica che è la parte che si è rotta invece di compare l'intero attuatore......ricevendo sempre risposta negativa. Se l'azienda non è stata in grado di creare un prodotto affidabile non mi sembra giusto che ci debbano rimettere i clienti che hanno già comprato varie volte il loro prodotto di scarsa qualità a prezzi assurdi. 
+E quindi ho ricreato l'adattatore che distribuisco gratuitamente sotto licenza "GNU General Public License".  (e quindi bye bye RBM.)
 
 Le misure dell'adattatore sono compatibili per il funzionamento con un attuatore da 12€ che si può comprare al seguente link:
 https://www.amazon.it/dp/B0BY7WF8WJ?th=1
@@ -23,8 +24,7 @@ L'attuatore inoltre deve essere di tipo NORMALMENTE APERTO. sono è stato verifi
 
 
 
-Ulteriori informazioni verranno aggiunte nei prossimi giorni.
-
+(informazione aggiuntiva: Visto che a me servirebbe il contatto pulito, sto attivandomi per integrare nell'adattatore qualcosa.......si accettano idee.
 "Questo progetto è indipendente e non ha alcuna affiliazione o collaborazione con RBM o altre aziende citate o non citate."
 
 Aggiungo che se stampate l'adattatore, lo fate sotto la vostra responsabilità. 
