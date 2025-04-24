@@ -4,7 +4,7 @@ MVA21 RBM Serie 112
 
 Dopo innumerevoli guasti dell'elettrovalvola originale MVA21 prodotta da RBM, mi sono rifiutato di continuare ad acquistare ricambi costosi e dalla scarsa affidabilità. Stanco dei frequenti malfunzionamenti e delle continue spese di sostituzione, ho deciso di progettare una soluzione alternativa.
 
-Prendendo spunto da un vecchio adattatore ormai fuori produzione, ho ridisegnato e ottimizzato un anello di raccordo stampabile in 3D, che permette di installare direttamente sulla valvola MVA21 attuatori standard per radiatori, più economici, facilmente reperibili e nettamente più affidabili. (almeno a parità di prezzo.)
+Prendendo spunto da un vecchio adattatore ormai fuori produzione, ho ridisegnato e ottimizzato un anello di raccordo stampabile in 3D, che permette di installare direttamente sulla valvola Serie 112 degli attuatori standard per radiatori, più economici, facilmente reperibili e nettamente più affidabili. (almeno a parità di prezzo.)
 
 Questo adattatore è stato testato con successo e ha dimostrato di garantire un montaggio stabile, sicuro e duraturo.
 
@@ -17,7 +17,8 @@ E quindi ho ricreato l'adattatore che distribuisco gratuitamente sotto licenza "
 Le misure dell'adattatore sono compatibili per il funzionamento con un attuatore da 12€ che si può comprare al seguente link:
 https://www.amazon.it/dp/B0BY7WF8WJ
 ATTENZIONE: L'attuatore in questione non ha il contatto pulito, quindi se questa è una necessità, servirà trovare un attuatore con 4 fili. Al momento non ne ho trovati su amazon, ma esistono.
-L'attuatore inoltre deve essere di tipo NORMALMENTE APERTO. sono è stato verificato il funzionamento di attuatori di tipo NORMALMENTE CHIUSO.
+L'attuatore inoltre deve essere di tipo NORMALMENTE APERTO. io l'ho provato solo con alcuni attuatori di tipo NORMALMENTE APERTO.
+L'attuatore è in funzione da un pò di tempo presso la mia abitazione e funziona correttamente.
 
 ![adattatore2](https://github.com/user-attachments/assets/e64fc197-f4be-4244-8ba9-988e3f6ed970)
 
