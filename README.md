@@ -24,6 +24,7 @@ L'attuatore è in funzione da un pò di tempo presso la mia abitazione e funzion
 
 ![adattatore1](https://github.com/user-attachments/assets/ee03c7b8-dc8b-4b9f-bd62-d2457aa1c160)
 
+<img width="584" height="490" alt="adattatore2" src="https://github.com/user-attachments/assets/2c8eb4f3-a7ef-47fc-bcdc-6192fff10be7" />
 
 
 
