@@ -45,6 +45,8 @@ la parte che si fissa all'attuatore è stata stampata in 2 pezzi per permettere 
 il cilindro centrale invece va stampato con un "RAFT" di supporto.  (una base molto + larga che permetta all'oggetto di aderire meglio al piatto di stampa.) altrimenti il rischio che si stacchi verso la fine della stampa è elevato.
 il tutto va montato come da foto.
 
+Servono inoltre 4 viti m3 da 20mm. + bulloni 
+
 <img width="295" height="576" alt="Foto 16-05-26, 11 25 39" src="https://github.com/user-attachments/assets/3b449a9e-db92-4857-887f-f94d9645a1db" />
 
 Ho usato per entrambi i raccordi PETG perchè con il primo adattatore c'erano problemi di temperatura. Serve verificare se sia possibile stampare in PLA o altri materiali perchè comunque l'attuatore scalda.
