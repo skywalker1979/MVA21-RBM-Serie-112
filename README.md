@@ -44,6 +44,8 @@ Sono 3 pezzi da stampare con la stampante 3d o altri sistemi.
 la parte che si fissa all'attuatore è stata stampata in 2 pezzi per permettere la stampa senza l'uso di supporti e rendere quindi più facile stampare i pezzi.
 il cilindro centrale invece va stampato con un "RAFT" di supporto.  (una base molto + larga che permetta all'oggetto di aderire meglio al piatto.) altrimenti si staccherà verso la fine della stampa.
 il tutto va montato come da foto.
+
 <img width="295" height="576" alt="Foto 16-05-26, 11 25 39" src="https://github.com/user-attachments/assets/3b449a9e-db92-4857-887f-f94d9645a1db" />
+
 Ho usato per entrambi i raccordi PETG perchè con il primo adattatore c'erano problemi di temperatura. Serve verificare se sia possibile stampare in PLA o altri materiali perchè comunque l'attuatore scalda.
 Mi sento di suggerire di rimanere su PETG, salvo che il cilindro centrale, che è l'unico pezzo a contatto diretto con l'attuatore termico non venga creato con materiali differenti.  (metallo...es rondelle?)
