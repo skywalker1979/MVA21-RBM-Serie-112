@@ -42,7 +42,7 @@ NUOVO ADATTATORE CON SUPPORTO PER CONTATTO AUSIALIARIO.
 Ho disegnato anche un nuovo adattatore che permette l'utilizzo di parte dell'attuatore originale RBM per poter usare il contatto ausiliario.
 Sono 3 pezzi da stampare con la stampante 3d o altri sistemi.
 la parte che si fissa all'attuatore è stata stampata in 2 pezzi per permettere la stampa senza l'uso di supporti e rendere quindi più facile stampare i pezzi.
-il cilindro centrale invece va stampato con un "RAFT" di supporto.  (una base molto + larga che permetta all'oggetto di aderire meglio al piatto.) altrimenti si staccherà verso la fine della stampa.
+il cilindro centrale invece va stampato con un "RAFT" di supporto.  (una base molto + larga che permetta all'oggetto di aderire meglio al piatto di stampa.) altrimenti il rischio che si stacchi verso la fine della stampa è elevato.
 il tutto va montato come da foto.
 
 <img width="295" height="576" alt="Foto 16-05-26, 11 25 39" src="https://github.com/user-attachments/assets/3b449a9e-db92-4857-887f-f94d9645a1db" />
