@@ -36,6 +36,9 @@ Aggiungo che se stampate l'adattatore, lo fate sotto la vostra responsabilità.
 Io per nessun motivo potrò essere ritenuto responsabile per danni a persone o cose derivanti dall'uso dell'adattatore.
 
 
+
+NUOVO ADATTATORE CON SUPPORTO PER CONTATTO AUSIALIARIO.
+
 Ho disegnato anche un nuovo adattatore che permette l'utilizzo di parte dell'attuatore originale RBM per poter usare il contatto ausiliario.
 Sono 3 pezzi da stampare con la stampante 3d o altri sistemi.
 la parte che si fissa all'attuatore è stata stampata in 2 pezzi per permettere la stampa senza l'uso di supporti e rendere quindi più facile stampare i pezzi.
