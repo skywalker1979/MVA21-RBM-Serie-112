@@ -51,3 +51,5 @@ Servono inoltre 4 viti m3 da 20mm. + bulloni
 
 Ho usato per entrambi i raccordi PETG perchè con il primo adattatore c'erano problemi di temperatura. Serve verificare se sia possibile stampare in PLA o altri materiali perchè comunque l'attuatore scalda.
 Mi sento di suggerire di rimanere su PETG, salvo che il cilindro centrale, che è l'unico pezzo a contatto diretto con l'attuatore termico non venga creato con materiali differenti.  (metallo...es rondelle?)
+
+ATTENZIONE: IL CILINDRO CENTRALE NELLA MIA CONFIGURAZIONE è STATO TESTATO CON UNA ALTEZZA DI 55MM (INCLUSA LA SPORGENZA CENTRALE.)
